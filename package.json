@@ -1,0 +1,23 @@
+{
+  "name": "ead-api",
+  "version": "0.0.1",
+  "description": "API da platforma de ensino a distância",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaueCassio/ead-api.git"
+  },
+  "author": "CassioCaue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CaueCassio/ead-api/issues"
+  },
+  "homepage": "https://github.com/CaueCassio/ead-api#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.0"
+  }
+}
